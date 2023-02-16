@@ -19,7 +19,7 @@ Notre objectif majeur dans ce projet en particulier ce notebbok 1 comprend les �
 
 **2.** *Feature engineering*
 
-**3.** *Explorattion rapide*
+**3.** *Exploration de données*
 
 
 # Description des données
